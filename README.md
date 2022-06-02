@@ -1,6 +1,7 @@
 # Desafio-DIO - REACT JS - GITHUB API
 </br>
 ![Desafio React](https://user-images.githubusercontent.com/95001642/171727356-a061e26c-73bd-4214-8bb6-7e549a1b6d28.gif)
+![Desafio Jogo da Memória](https://user-images.githubusercontent.com/95001642/171187775-6f97e3d7-016c-4c47-8b52-2c3e0f85be99.gif)
 
 <h2>Defasio DIO - Bootcamp TQI</h2>
 <p>Esta aplicação consistem em um sistema de busca dos perfis cadastrados no Gihub.</p>
